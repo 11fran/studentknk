@@ -1,0 +1,65 @@
+h2 {
+	color: #368F8B;
+	font-size: 30px;
+}
+
+h3 {
+	color: #368F8B;
+	font-size: 23px;
+	font-style: oblique;
+	font-weight: bold; 
+}
+
+p {
+	color: #368F8B; 
+	opacity: 0.6;
+	font-size: 15px;
+}
+
+#header {
+	text-align: center;
+	font-size: 12px;
+	background-color: #C2EABD;
+	height: 140px;
+}
+
+#header img {
+
+	border-radius: 50%;
+	padding-top: 30px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.Fotoboxen img {
+	height: 160px;
+}
+
+.Fotoboxen {
+
+	padding-bottom: 10px;
+
+}
+
+.footer {
+	background-color: #C2EABD;
+	height: 30px;
+	text-align: center;
+	padding-top: 6px;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+
+}
+
+.footer a {
+  color: #368F8B;
+  font-size: 15px;
+}
+.footer a:hover {
+  color: white;
+}
+
+.platz {
+	padding-top: 40px;
+}
